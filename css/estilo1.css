@@ -1,0 +1,29 @@
+.masthead{
+	background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, #000000 100%), url(../assets/img/anony2.jpg);
+}
+.navbar-brand:hover{
+	 background:linear-gradient(30deg, crimson,sienna, royalblue, indianred, purple);
+}
+.btn-primary{
+	color:#000;
+	background-color:#f5f118 !important;
+}
+.card{
+	background-color: #11f0cb !important;
+}
+#mainNav.navbar-shrink .nav-link.active {
+    color:#f21c00 !important;
+}
+.signup-section {
+    
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.5) 75%, #000000 100%), url(../assets/img/codee.jpg);
+}
+.text-white {
+    color: #f21c00 !important;
+}
+#Hh1{
+	color: #fff700;
+}
+#Hh{
+	color: #0206e8 ;
+}
